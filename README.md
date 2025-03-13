@@ -21,7 +21,7 @@ This is a blog project created following the [Django Girls Tutorial](https://tut
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/mapaba79/your-repository.git
    cd your-repository
    ```
 
