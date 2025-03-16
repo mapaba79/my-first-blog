@@ -22,7 +22,7 @@ This is a blog project created following the [Django Girls Tutorial](https://tut
 
    ```bash
    git clone https://github.com/mapaba79/my-first-blog.git
-   cd your-repository
+   cd my-first-blog
    ```
 
 2. Create and activate a virtual environment:
